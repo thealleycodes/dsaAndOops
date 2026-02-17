@@ -3,7 +3,7 @@ import java.util.*;
 public class BasicMaths {
     public static int Returnini(){
         int[] arr ={};
-        arr.
+
     }
     public static void main(String[] args) {
         int num=111;
@@ -16,6 +16,6 @@ public class BasicMaths {
             num/=10;
         }
         System.out.println(reversedNumber==num);
-        
+
     }
 }
